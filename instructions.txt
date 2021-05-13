@@ -1,1 +1,0 @@
-run BioAuthenticationDatabase and BioAuthenticationVideos to start the program.
