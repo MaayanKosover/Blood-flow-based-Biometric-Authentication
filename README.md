@@ -1,7 +1,8 @@
 # Blood-flow-based-Biometric-Authentication
 
 # A Brief Summary
-Run BioAuthenticationDatabase or BioAuthenticationVideos to start the program
+Run BioAuthenticationDatabase or BioAuthenticationVideos to start the program.
+Due to issues with the size of the tested videos, we uploaded a .mat file with the PPG signals extracted from the videos.
 
 ```
 by Ariel Dar and Maayan Kosover
