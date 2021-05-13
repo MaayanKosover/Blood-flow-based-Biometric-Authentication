@@ -1,7 +1,7 @@
 # Blood-flow-based-Biometric-Authentication
 
 # A Brief Summary
-run BioAuthenticationDatabase and BioAuthenticationVideos to start the program
+Run BioAuthenticationDatabase or BioAuthenticationVideos to start the program
 
 ```
 Ariel Dar
