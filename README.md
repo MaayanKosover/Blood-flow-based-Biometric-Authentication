@@ -4,8 +4,7 @@
 Run BioAuthenticationDatabase or BioAuthenticationVideos to start the program
 
 ```
-Ariel Dar
-Maayan Kosover
+by Ariel Dar and Maayan Kosover
 ```
 - **Project Goal**
 
