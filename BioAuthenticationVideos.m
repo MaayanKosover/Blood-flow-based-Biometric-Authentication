@@ -8,8 +8,10 @@
 %%     2. The success rate of the classification based on PCA.
 %%     3. The success rate of the classification based on both DCT and PCA.
 
-%% read videos
-[ppg_tot,~] = read_videos();
+%% read videos (Videos are too big for git, so instead we load .mat file
+%[ppg_tot,~] = read_videos();
+PPG_videos = load('PPG_videos.mat');
+ppg_tot = PPG_videos.ppg_tot;
 
 %% Get DCTs from Videos
 numOfSubjects = 7;
